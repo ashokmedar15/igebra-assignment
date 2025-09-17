@@ -1,0 +1,5 @@
+cd nextjs_dashboard
+echo "" > .gitkeep
+git add .gitkeep
+git commit -m "Keep dashboard folder in repo"
+git push origin main

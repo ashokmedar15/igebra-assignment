@@ -1,0 +1,24 @@
+[
+  {
+    "student_id": 1,
+    "name": "Rachel",
+    "class": "10A",
+    "comprehension": 78,
+    "attention": 82,
+    "focus": 75,
+    "retention": 80,
+    "engagement_time": 45,
+    "assessment_score": 85
+  },
+  {
+    "student_id": 2,
+    "name": "John",
+    "class": "10B",
+    "comprehension": 65,
+    "attention": 70,
+    "focus": 68,
+    "retention": 60,
+    "engagement_time": 40,
+    "assessment_score": 72
+  }
+]
